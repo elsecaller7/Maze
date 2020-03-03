@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "/home/ritik/Desktop/Maze/Ritik.c" "/home/ritik/Desktop/Maze/cmake-build-debug/CMakeFiles/Maze.dir/Ritik.c.o"
   "/home/ritik/Desktop/Maze/main.c" "/home/ritik/Desktop/Maze/cmake-build-debug/CMakeFiles/Maze.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")

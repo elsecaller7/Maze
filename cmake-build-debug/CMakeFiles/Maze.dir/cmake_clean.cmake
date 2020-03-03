@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Maze.dir/Ritik.c.o"
   "CMakeFiles/Maze.dir/main.c.o"
   "Maze"
   "Maze.pdb"

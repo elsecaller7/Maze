@@ -78,6 +78,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/ritik/Desktop/Maze/Ritik.c">
+			<Option target="Maze"/>
+		</Unit>
+		<Unit filename="/home/ritik/Desktop/Maze/Ritik.h">
+			<Option target="Maze"/>
+		</Unit>
+		<Unit filename="/home/ritik/Desktop/Maze/dataStructs.h">
+			<Option target="Maze"/>
+		</Unit>
 		<Unit filename="/home/ritik/Desktop/Maze/main.c">
 			<Option target="Maze"/>
 		</Unit>

@@ -123,6 +123,33 @@ Maze/fast:
 	$(MAKE) -f CMakeFiles/Maze.dir/build.make CMakeFiles/Maze.dir/build
 .PHONY : Maze/fast
 
+Ritik.o: Ritik.c.o
+
+.PHONY : Ritik.o
+
+# target to build an object file
+Ritik.c.o:
+	$(MAKE) -f CMakeFiles/Maze.dir/build.make CMakeFiles/Maze.dir/Ritik.c.o
+.PHONY : Ritik.c.o
+
+Ritik.i: Ritik.c.i
+
+.PHONY : Ritik.i
+
+# target to preprocess a source file
+Ritik.c.i:
+	$(MAKE) -f CMakeFiles/Maze.dir/build.make CMakeFiles/Maze.dir/Ritik.c.i
+.PHONY : Ritik.c.i
+
+Ritik.s: Ritik.c.s
+
+.PHONY : Ritik.s
+
+# target to generate assembly for a file
+Ritik.c.s:
+	$(MAKE) -f CMakeFiles/Maze.dir/build.make CMakeFiles/Maze.dir/Ritik.c.s
+.PHONY : Ritik.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Maze"
 	@echo "... edit_cache"
+	@echo "... Ritik.o"
+	@echo "... Ritik.i"
+	@echo "... Ritik.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

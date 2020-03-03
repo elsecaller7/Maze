@@ -1,1 +1,1 @@
-/usr/bin/cc -g   CMakeFiles/Maze.dir/main.c.o  -o Maze 
+/usr/bin/cc -g   CMakeFiles/Maze.dir/main.c.o CMakeFiles/Maze.dir/Ritik.c.o  -o Maze 
